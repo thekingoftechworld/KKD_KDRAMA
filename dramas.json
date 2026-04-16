@@ -1,0 +1,47 @@
+{
+  "dramas": [
+    {
+      "name": "Crash Landing on You",
+      "link1": "https://example.com/watch/crash-landing-on-you",
+      "link2": "https://example.com/watch/crash-landing-on-you",
+      "link3": "https://example.com/watch/crash-landing-on-you",
+      "link4": "https://example.com/watch/crash-landing-on-you"
+    },
+    {
+      "name": "Squid Game",
+      "link": "https://example.com/watch/squid-game"
+    },
+    {
+      "name": "Kingdom",
+      "link": "https://example.com/watch/kingdom"
+    },
+    {
+      "name": "Itaewon Class",
+      "link": "https://example.com/watch/itaewon-class"
+    },
+    {
+      "name": "Vincenzo",
+      "link": "https://example.com/watch/vincenzo"
+    },
+    {
+      "name": "Hospital Playlist",
+      "link": "https://example.com/watch/hospital-playlist"
+    },
+    {
+      "name": "Reply 1988",
+      "link": "https://example.com/watch/reply-1988"
+    },
+    {
+      "name": "My Mister",
+      "link": "https://example.com/watch/my-mister"
+    },
+    {
+      "name": "Signal",
+      "link": "https://example.com/watch/signal"
+    },
+    {
+      "name": "Goblin",
+      "link": "https://example.com/watch/goblin"
+    }
+  ]
+}
