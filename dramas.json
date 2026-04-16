@@ -3,85 +3,36 @@
     {
       "name": "Crash Landing on You",
       "links": [
-        {
-          "episode": "Episode 1",
-          "url": "https://example.com/crash-landing/ep1"
-        },
-        {
-          "episode": "Episode 2",
-          "url": "https://example.com/crash-landing/ep2"
-        },
-        {
-          "episode": "Episode 3",
-          "url": "https://example.com/crash-landing/ep3"
-        },
-        {
-          "episode": "Episode 4",
-          "url": "https://example.com/crash-landing/ep4"
-        }
+        { "episode": "Episode 1", "url": "https://example.com/crash-landing/ep1" },
+        { "episode": "Episode 2", "url": "https://example.com/crash-landing/ep2" },
+        { "episode": "Episode 3", "url": "https://example.com/crash-landing/ep3" },
+        { "episode": "Episode 4", "url": "https://example.com/crash-landing/ep4" }
       ]
     },
-    {
-      "name": "School 2017 Hindi",
+    { "name": "School 2017 Hindi",
       "links": [
-        {
-          "episode": "Episode 1 - Hindi Dubbed",
-          "url": "https://example.com/school2017/ep1"
-        },
-        {
-          "episode": "Episode 2 - Hindi Dubbed",
-          "url": "https://example.com/school2017/ep2"
-        },
-        {
-          "episode": "Episode 3 - Hindi Dubbed",
-          "url": "https://example.com/school2017/ep3"
-        },
-        {
-          "episode": "Full Movie",
-          "url": "https://example.com/school2017/full"
-        }
+        { "episode": "Episode 1 - Hindi Dubbed", "url": "https://example.com/school2017/ep1" },
+        { "episode": "Episode 2 - Hindi Dubbed", "url": "https://example.com/school2017/ep2" },
+        { "episode": "Episode 3 - Hindi Dubbed", "url": "https://example.com/school2017/ep3" },
+        { "episode": "Full Movie", "url": "https://example.com/school2017/full" }
       ]
     },
     {
       "name": "Squid Game",
       "links": [
-        {
-          "episode": "Season 1 - Episode 1",
-          "url": "https://example.com/squid-game/s1e1"
-        },
-        {
-          "episode": "Season 1 - Episode 2",
-          "url": "https://example.com/squid-game/s1e2"
-        },
-        {
-          "episode": "Season 1 - Episode 3",
-          "url": "https://example.com/squid-game/s1e3"
-        },
-        {
-          "episode": "Season 1 - Episode 4",
-          "url": "https://example.com/squid-game/s1e4"
-        },
-        {
-          "episode": "Season 1 - Episode 5",
-          "url": "https://example.com/squid-game/s1e5"
-        }
+        { "episode": "Season 1 - Episode 1", "url": "https://example.com/squid-game/s1e1" },
+        { "episode": "Season 1 - Episode 2", "url": "https://example.com/squid-game/s1e2" },
+        { "episode": "Season 1 - Episode 3", "url": "https://example.com/squid-game/s1e3" },
+        { "episode": "Season 1 - Episode 4", "url": "https://example.com/squid-game/s1e4" },
+        { "episode": "Season 1 - Episode 5", "url": "https://example.com/squid-game/s1e5" }
       ]
     },
     {
       "name": "Vincenzo",
       "links": [
-        {
-          "episode": "Episode 1 (Hindi)",
-          "url": "https://example.com/vincenzo/ep1"
-        },
-        {
-          "episode": "Episode 2 (Hindi)",
-          "url": "https://example.com/vincenzo/ep2"
-        },
-        {
-          "episode": "Episode 3 (Hindi)",
-          "url": "https://example.com/vincenzo/ep3"
-        }
+        { "episode": "Episode 1 (Hindi)", "url": "https://example.com/vincenzo/ep1" },
+        { "episode": "Episode 2 (Hindi)", "url": "https://example.com/vincenzo/ep2" },
+        { "episode": "Episode 3 (Hindi)", "url": "https://example.com/vincenzo/ep3" }
       ]
     }
   ]
